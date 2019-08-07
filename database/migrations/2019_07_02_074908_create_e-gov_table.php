@@ -19,9 +19,9 @@ class CreateEGovTable extends Migration
             $table->string('nama_pic_opd');
             $table->string('no_hp');
             $table->dateTime('tanggal_jam_problem');
-            $table->string('keluhan');
+            $table->text('keluhan');
             $table->dateTime('tanggal_jam_troubleshoot');
-            $table->string('penanganan_permasalahan');
+            $table->text('penanganan_permasalahan');
             $table->timestamps();
         });
     }
