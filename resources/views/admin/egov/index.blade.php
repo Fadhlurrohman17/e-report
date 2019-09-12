@@ -67,6 +67,8 @@
                             <option>DINAS PU, PENATAAN RUANG DAN PERHUBUNGAN KAB. BANGKA</option>
                             <option>DINAS SOSIAL, PEMBERDAYAAN MASYARAKAT DAN DESA KAB. BANGKA</option>
                             <option>DINAS TENAGA KERJA, PERINDUSTRIAN DAN PERDAGANGAN KAB. BANGKA</option>
+                            <option>SATUAN POLISI PAMONG PRAJA</option>
+                            <option>KESATUAN BANGSA DAN POLITIK(KESBANGPOL)</option>
                             <option>GURU SDN 6 Belinyu</option>
                             <option>GURU SMPN 1 Pemali</option>
                             <option>GURU SMPN 1 Sungailiat</option>
